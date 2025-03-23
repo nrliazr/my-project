@@ -1,0 +1,72 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.login-background {
+    background-color: #151a52;
+}
+
+.login-container {
+    background-color: rgb(240, 236, 229);
+}
+
+.home-bg {
+    background-color: rgb(219, 226, 239);
+}
+
+.edit-button {
+    background-color: rgb(205, 232, 229);
+    color: rgb(77, 134, 156);
+}
+
+.edit-button:hover {
+    background-color: rgb(77, 134, 156);
+    color: rgb(205, 232, 229);
+}
+
+.delete-button {
+    background-color: rgb(169, 29, 58);
+    color: white;
+}
+
+.delete-button:hover {
+    background-color: rgb(160, 12, 42);
+    color: white;
+}
+
+.title-color{
+    color: #252a81;
+}
+
+.input-name {
+    color: #4552cf;
+}
+
+.input-text {
+    color: #151a52;
+}
+
+.detail-link {
+    color: #4552cf;
+}
+
+.text-color {
+    color: #151a52;
+}
+
+.box-container {
+    background-color: #f4f5f7;
+}
+
+.edit-button {
+    background-color: #252a81;
+    color: #f6f9fb;
+}
+
+.table-header {
+    background-color: #1e3a8a;
+    color: white;
+}
